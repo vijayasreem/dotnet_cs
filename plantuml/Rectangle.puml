@@ -1,0 +1,16 @@
+@startuml
+class Rectangle {
+    x : int
+    y : int
+    width : int
+    height : int
+    + Rectangle()
+    + Rectangle(x:int, y:int, width:int, height:int)
+    + setSvg() : void
+    + getSvg() : string
+    + <<override>> draw() : string
+    + statedDrawn() : void
+}
+Shape <|-- Rectangle
+Rectangle o-> "svg" String
+@enduml

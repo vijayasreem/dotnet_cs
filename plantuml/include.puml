@@ -1,0 +1,18 @@
+@startuml
+!include .\\Canvas.puml
+!include .\\CareTaker.puml
+!include .\\Circle.puml
+!include .\\Ellipse.puml
+!include .\\Line.puml
+!include .\\Momento.puml
+!include .\\Path.puml
+!include .\\Polygon.puml
+!include .\\Polyline.puml
+!include .\\Program.puml
+!include .\\Rectangle.puml
+!include .\\Shape.puml
+!include .\\Factory.puml
+!include .\\Styles.puml
+!include .\\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.puml
+!include .\\obj\Debug\net5.0\week2 cs264.AssemblyInfo.puml
+@enduml

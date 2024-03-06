@@ -1,0 +1,17 @@
+@startuml
+class Shape {
+    + <<virtual>> draw() : string
+    + <<virtual>> getSVG() : string
+    stroke : string = "2"
+    swidth : string = "2"
+    fill : string = "grey"
+    + setStyles(stroke:string, fill:string, swidth:string) : void
+    + setLineStyles(stroke:string, swidth:string) : void
+    + setDefaultStroke() : void
+    + getStyles() : string
+    + getLineStyles() : string
+    + getStroke() : string
+    + getFill() : string
+    + getSWidth() : string
+}
+@enduml

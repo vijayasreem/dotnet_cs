@@ -1,0 +1,7 @@
+@startuml
+class Styles {
+    + changeStyle(s:Shape, type:String) : void
+    + changeLineStyle(s:Shape) : void
+}
+Factory <|-- Styles
+@enduml

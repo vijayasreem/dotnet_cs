@@ -1,0 +1,17 @@
+@startuml
+class Ellipse {
+    x : int
+    y : int
+    x2 : int
+    y2 : int
+    + Ellipse()
+    + Ellipse(x:int, y:int, x2:int, y2:int)
+    + setSvg() : void
+    + getSvg() : string
+    + <<override>> draw() : string
+    + setLineStroke() : void
+    + statedDrawn() : void
+}
+Shape <|-- Ellipse
+Ellipse o-> "svg" String
+@enduml

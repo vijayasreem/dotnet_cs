@@ -1,0 +1,7 @@
+@startuml
+class Momento {
+    + Momento(ListOfShapes:Canvas)
+    + GetShape() : Canvas
+    + drawCanvas() : String
+}
+@enduml

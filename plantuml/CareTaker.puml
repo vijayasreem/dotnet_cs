@@ -1,0 +1,14 @@
+@startuml
+class CareTaker {
+    + CareTaker(canvas:Momento)
+    + addMomento(canvas:Momento) : void
+    + drawMomento() : String
+    + remove() : void
+    + undo() : void
+    + redo() : void
+    + getLength() : int
+}
+class "List`1"<T> {
+}
+CareTaker o-> "ListOfCanvas<Momento>" "List`1"
+@enduml

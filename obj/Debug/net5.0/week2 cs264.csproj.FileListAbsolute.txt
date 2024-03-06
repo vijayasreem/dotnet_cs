@@ -1,0 +1,159 @@
+E:\3rd Year\CS264 c sharp\week2 cs264\bin\Debug\net5.0\week2 cs264.exe
+E:\3rd Year\CS264 c sharp\week2 cs264\bin\Debug\net5.0\week2 cs264.deps.json
+E:\3rd Year\CS264 c sharp\week2 cs264\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+E:\3rd Year\CS264 c sharp\week2 cs264\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+E:\3rd Year\CS264 c sharp\week2 cs264\bin\Debug\net5.0\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\bin\Debug\net5.0\ref\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\bin\Debug\net5.0\week2 cs264.pdb
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\ref\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.pdb
+E:\3rd Year\CS264 c sharp\week2 cs264\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.exe
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.deps.json
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.pdb
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.pdb
+E:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.exe
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.deps.json
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\bin\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\week2 cs264\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.exe
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.deps.json
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.dll
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.pdb
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.dll
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.pdb
+D:\3rd Year\cs264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.exe
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.deps.json
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\bin\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\assignmnet 3 redo undo\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\bin\Debug\net5.0\week2 cs264.exe
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\bin\Debug\net5.0\week2 cs264.deps.json
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\bin\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\bin\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\CODE FOR MOMENTO\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.exe
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.deps.json
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.pdb
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.pdb
+E:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.exe
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.deps.json
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\bin\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\assignment-03-19718171\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\bin\Debug\net5.0\week2 cs264.exe
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\bin\Debug\net5.0\week2 cs264.deps.json
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\bin\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\bin\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\bin\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.csproj.AssemblyReference.cache
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\ref\week2 cs264.dll
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.pdb
+F:\3rd Year\CS264 c sharp\week4 cs264\assignment-04-19718171\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net5.0\week2 cs264.exe
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net5.0\week2 cs264.deps.json
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.json
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net5.0\week2 cs264.runtimeconfig.dev.json
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net5.0\week2 cs264.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net5.0\week2 cs264.pdb
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\week2 cs264.AssemblyInfo.cs
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\week2 cs264.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\week2 cs264.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\refint\week2 cs264.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\week2 cs264.pdb
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\week2 cs264.genruntimeconfig.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net5.0\ref\week2 cs264.dll

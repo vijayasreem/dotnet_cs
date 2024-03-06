@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net6.0\week2 cs264.exe
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net6.0\week2 cs264.deps.json
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net6.0\week2 cs264.runtimeconfig.json
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net6.0\week2 cs264.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\bin\Debug\net6.0\week2 cs264.pdb
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\week2 cs264.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\week2 cs264.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\week2 cs264.AssemblyInfo.cs
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\week2 cs264.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\week2 cs264.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\refint\week2 cs264.dll
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\week2 cs264.pdb
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\week2 cs264.genruntimeconfig.cache
+C:\Users\julia\OneDrive\main_stage\code\uni_stuff\shape_svg_converter\version1\obj\Debug\net6.0\ref\week2 cs264.dll

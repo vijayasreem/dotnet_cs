@@ -1,0 +1,27 @@
+@startuml
+class Canvas {
+    width : int
+    height : int
+    blank : bool = false
+    wasBlank : bool = false
+    + Canvas()
+    + Canvas(width:int, height:int)
+    + getCanvasDimensions() : String
+    + undoShape() : Shape
+    + undoBlank() : Shape
+    + redoBlank() : void
+    + redoShape() : void
+    + setHeight(height:int) : void
+    + setWidth(width:int) : void
+    + addShape(s:Shape) : void
+    + removeShape() : Shape
+    + getHeight() : int
+    + getSize() : int
+    + getWidth() : int
+    + Blank() : void
+    + draw() : string
+}
+class "Stack`1"<T> {
+}
+Canvas o-> "canvas<Shape>" "Stack`1"
+@enduml

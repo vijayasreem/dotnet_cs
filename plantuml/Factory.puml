@@ -1,0 +1,21 @@
+@startuml
+class Factory {
+    + processOrder(canvas:Canvas) : Canvas
+    + getSavedFolderFromFactory() : CareTaker
+    + getCanvasFromFactory() : Canvas
+    + addCircle(canvas:Canvas) : void
+    + checkShape(s:Shape, type:String) : bool
+    + addRectangle(canvas:Canvas) : void
+    + addEllipse(canvas:Canvas) : void
+    + addLine(canvas:Canvas) : void
+    + addPolyline(canvas:Canvas) : void
+    + addPolygon(canvas:Canvas) : void
+    + addPath(canvas:Canvas) : void
+    + listOfShapes() : void
+    + Yep() : bool
+}
+Factory --> "s" Shape
+Factory o-> "savedFolders" CareTaker
+Factory o-> "CANVAS" Canvas
+Factory o-> "editStyles" Styles
+@enduml

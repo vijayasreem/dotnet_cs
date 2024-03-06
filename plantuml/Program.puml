@@ -1,0 +1,15 @@
+@startuml
+class Program {
+    {static} Main(args:string[]) : void
+    + {static} addShape(canvas:Canvas) : Canvas
+    + {static} undo(canvas:Canvas) : void
+    + {static} redo(canvas:Canvas) : void
+    + {static} printCommands(canvas:Canvas) : void
+    + {static} setCanvasDimensions(canvas:Canvas) : Canvas
+    + {static} yesOrNo() : bool
+    + {static} yesToContinue() : void
+    + {static} outputFile(canvas:Canvas) : void
+}
+Program o-> "savedFolders" CareTaker
+Program o-> "factory" Factory
+@enduml

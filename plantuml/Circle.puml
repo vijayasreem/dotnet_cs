@@ -1,0 +1,15 @@
+@startuml
+class Circle {
+    x : int
+    y : int
+    r : int
+    + Circle()
+    + Circle(x:int, y:int, r:int)
+    + setSvg() : void
+    + getSvg() : string
+    + <<override>> draw() : string
+    + statedDrawn() : void
+}
+Shape <|-- Circle
+Circle o-> "svg" String
+@enduml
